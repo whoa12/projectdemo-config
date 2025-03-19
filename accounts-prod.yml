@@ -6,6 +6,7 @@ accounts:
   message: "Welcome, this is my demo project!"
   contactDetails:
     name: "Amit"
-    email: "amit@gmail.com"
+    email: "{cipher}7b56b0cfc0bf629ed20ff849c00d139da6212ef638683524d86858a3b254dcc0" 
+
   onCallSupport:
     -398498983298329

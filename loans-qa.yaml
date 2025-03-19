@@ -1,0 +1,16 @@
+spring:
+  config:
+    activate:
+      on-profile: "loans_qa"
+
+  build:
+    version: "2.0"
+
+  loans:
+    message: "For queries related to this, contact:"
+    contactInfo:
+      name: "Amit"
+      email: "amit1321@gmail.com"
+    onCallsSupport:
+      - "845488478347"
+      - "474576736746"

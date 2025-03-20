@@ -4,7 +4,7 @@ build:
   version: "1.0"
 
 accounts:
-  message: "Welcome, this is my demo project!"
+  message: "Welcome, this is my accounts project!"
   contactDetails:
     name: "Anshul"
     email: "abc@gmail.com"

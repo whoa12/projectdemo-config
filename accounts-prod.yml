@@ -3,7 +3,7 @@ build:
   version: "2.0"
 
 accounts:
-  message: "Welcome, this is my demo project!"
+  message: "Welcome, this is my production accounts project!"
   contactDetails:
     name: "Amit"
     email: "{cipher}db5422f54ef5bdebae0962f6677cb3274f36c49e4014481f300ee696ca8fbc07fe9f32020b675dcf7243c1db6559b160"
